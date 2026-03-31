@@ -1,0 +1,12 @@
+{
+  "name": "@redstonery/simulation",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@redstonery/typescript-config": "*",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^6"
+  }
+}
