@@ -1,2 +1,3 @@
 bun format-all
 bun lint
+bun test
