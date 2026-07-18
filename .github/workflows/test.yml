@@ -3,7 +3,7 @@ on:
   pull_request:
 jobs:
   test:
-    name: Test the whole monorepo
+    name: Test monorepo
     runs-on: ubuntu-latest # ? Use a matrix for better tests?
     steps:
       - name: Checkout
